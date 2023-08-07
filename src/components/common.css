@@ -1,0 +1,16 @@
+.bg-custom {
+  background: linear-gradient(
+    to bottom,
+    #097abf,
+    #0368a1,
+    #045785,
+    #074669,
+    #0a354f
+  );
+}
+.custom_slider::-webkit-scrollbar {
+  display: none;
+}
+.wave_img {
+  background-image: url("../assets/wave.svg");
+}
